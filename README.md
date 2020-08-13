@@ -6,3 +6,7 @@ Ante un posible aumento de la violencia de género en los hogares a causa del co
 En este repositorio se estarán subiendo bases de datos abiertas de violencia familiar, elaboradas a partir de cifras del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública (https://www.gob.mx/sesnsp/acciones-y-programas/incidencia-delictiva-del-fuero-comun-nueva-metodologia?state=published), la Dirección General de Información en Salud (https://www.gob.mx/salud/acciones-y-programas/menu-salud-en-numeros?state=published), y proyecciones de población a mitad de año del Consejo Nacional de Población (https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2016-2050).
 
 Así como scripts para la visualización de los datos.
+
+### Publicaciones que refieren las bases de datos contenidas en este repositorio
+
+- [Violencia familiar, antes y durante el COVID-19](https://datos.nexos.com.mx/?p=1416)
