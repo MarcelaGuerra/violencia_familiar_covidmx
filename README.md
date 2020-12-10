@@ -1,4 +1,4 @@
-# Violencia Familiar en Mexico, antes y durante el COVID
+# Violencia familiar en Mexico, antes y durante el COVID
 La contingencia sanitaria por covid-19, representa un factor de riesgo para las niñas y mujeres. Países como China y Francia han registrado un aumento en el registro de los delitos por violencia familiar.
 
 Ante un posible aumento de la violencia de género en los hogares a causa del confinamiento en México, el pasado 26 de marzo de 2020 el Instituto Nacional de las Mujeres (Inmujeres) presentó las medidas de prevención y atención de casos de violencia.
